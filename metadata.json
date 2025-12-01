@@ -1,0 +1,5 @@
+{
+  "name": "PracticeFlow",
+  "description": "A comprehensive management tool for private practices featuring patient records, appointment scheduling, revenue tracking, and AI-assisted clinical documentation.",
+  "requestFramePermissions": []
+}
